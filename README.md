@@ -73,7 +73,7 @@ pip install torch transformers trl unsloth datasets huggingface_hub wandb
 
 ## 📚 Dataset
 
-We use the [FreedomIntelligence/medical-o1-reasoning-SFT](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT) dataset (train\[0:500]) for proof‑of‑concept. It contains:
+I have used the [FreedomIntelligence/medical-o1-reasoning-SFT](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT) dataset (train\[0:500]) for proof‑of‑concept. It contains:
 
 * `Question`
 * `Complex_CoT` (chain‑of‑thought rationale)
