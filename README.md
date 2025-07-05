@@ -1,4 +1,4 @@
-### AI Doctor DeepSeek R1 Fine Tuning
+# AI Doctor DeepSeek R1 Fine Tuning
 ## 🏥 Overview
 
 This project fine‑tunes the `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` model on a supervised medical Q&A dataset with chain‑of‑thought prompts. The resulting model acts as an AI‑Doctor chatbot capable of providing clear, cautious medical guidance while reminding users to seek professional help.
