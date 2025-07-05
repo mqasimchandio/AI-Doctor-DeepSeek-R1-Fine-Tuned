@@ -205,7 +205,7 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-*Built with ❤️ using [unsloth](https://github.com/deepseek-ai/unsloth) + [TRL](https://github.com/huggingface/trl).*
+*Built with ❤️ using [unsloth](https://github.com/unslothai/unsloth) + [TRL](https://github.com/huggingface/trl).*
 
 ```
 ```
