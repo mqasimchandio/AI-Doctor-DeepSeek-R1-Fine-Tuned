@@ -201,8 +201,6 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 4. Push to your branch (`git push origin feature/XYZ`)
 5. Open a Pull Request
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 *Built with ❤️ using [unsloth](https://github.com/unslothai/unsloth) + [TRL](https://github.com/huggingface/trl).*
