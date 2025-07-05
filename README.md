@@ -204,13 +204,6 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to use, modify, and distribute!
-
----
-
 *Built with ❤️ using [unsloth](https://github.com/deepseek-ai/unsloth) + [TRL](https://github.com/huggingface/trl).*
 
 ```
