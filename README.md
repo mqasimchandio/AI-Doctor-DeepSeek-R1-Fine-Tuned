@@ -1,34 +1,3 @@
-Below is a suggested `README.md` for your project. Feel free to adjust any section (badges, links, or instructions) to match your exact repo structure or preferences.
-
----
-
-````markdown
-# AI-Doctor-DeepSeek-R1-FineTuned
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![PyPI Version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/your-package-name)  
-[![Build Status](https://github.com/your-username/AI-Doctor-DeepSeek-R1-FineTuned/workflows/CI/badge.svg)](https://github.com/your-username/AI-Doctor-DeepSeek-R1-FineTuned/actions)
-
-A friendly, fine‑tuned medical assistant built on top of DeepSeek‑R1 (LLaMA‑8B), optimized via PEFT/LoRA and supervised with chain‑of‑thought reasoning data.
-
----
-
-## 📖 Table of Contents
-
-- [Overview](#overview)  
-- [Features](#features)  
-- [Requirements](#requirements)  
-- [Installation](#installation)  
-- [Dataset](#dataset)  
-- [Training](#training)  
-- [Usage](#usage)  
-  - [Inference Demo](#inference-demo)  
-- [Logging & Monitoring](#logging--monitoring)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## 🏥 Overview
 
 This project fine‑tunes the `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` model on a supervised medical Q&A dataset with chain‑of‑thought prompts. The resulting model acts as an AI‑Doctor chatbot capable of providing clear, cautious medical guidance while reminding users to seek professional help.
